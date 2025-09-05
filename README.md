@@ -1,143 +1,84 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=800&color=000000&center=true&vCenter=true&width=800&lines=AI+Developer+%7C+Automation+Expert;Building+Intelligent+Solutions;Transforming+Business+with+AI;300%2B+Contributions+%7C+Professional+Mode" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=FFFF00&center=true&vCenter=true&width=700&lines=AI+Developer+%7C+Automation+Expert;Building+Intelligent+Solutions;Transforming+Business+with+AI;300%2B+Contributions+%7C+Cyberpunk+Mode" alt="Typing SVG" />
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/saadullah-bin-saleem)
-[![GitHub](https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/saadsaleem01)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=todoist&logoColor=black)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-00FF41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:saadullahsaleem7@gmail.com)
-
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFF00?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/saadullah-bin-saleem)
+[![GitHub](https://img.shields.io/badge/GitHub-FFFF00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/saadsaleem01)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFFF00?style=for-the-badge&logo=todoist&logoColor=black)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-FFFF00?style=for-the-badge&logo=gmail&logoColor=black)](mailto:saadullahsaleem7@gmail.com)
 
 ---
 
-## 🎯 **TECH DNA** 🎯
+## ⚡ TECH DNA ⚡ (CYBERPUNK MODE)
 
-<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Python','LangChain / LLMs','GCP + Azure','FastAPI + Django','DevOps + CI/CD'],datasets:[{data:[40,20,15,15,10],backgroundColor:['#00FF41','#00CC33','#00AA22','#008811','#006600']}]},options:{plugins:{legend:{position:'right',labels:{color:'#000000',font:{size:14,weight:'bold'}}},title:{display:true,text:'STACK DISTRIBUTION',color:'#000000',font:{size:20,weight:'bold'}}},responsive:true,backgroundColor:'#FFFFFF'}}" alt="Stack Distribution" width="700" height="500"/>
-
-<br>
+<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Python','LangChain / LLMs','GCP + Azure','FastAPI + Django','DevOps + CI/CD'],datasets:[{data:[40,20,15,15,10],backgroundColor:['#FFFF00','#FFD700','#FFA500','#FF8C00','#FF7F00']}]},options:{plugins:{legend:{position:'right',labels:{color:'#FFFF00',font:{size:14,weight:'bold'}}},title:{display:true,text:'STACK DISTRIBUTION',color:'#FFFF00',font:{size:20,weight:'bold'}}},responsive:true,backgroundColor:'#000000'}}" alt="Stack Distribution" width="650" height="450"/>
 
 ---
 
-## 🛠️ **CORE ARSENAL** 🛠️
+## ⚡ CORE ARSENAL ⚡
 
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<strong>🤖 AI/ML</strong><br>
-LangChain, OpenAI<br>
-Vertex AI, Azure OpenAI<br>
-Pinecone, Whisper<br>
-TensorFlow, PyTorch
-</td>
-<td align="center" width="25%">
-<strong>⚡ Backend</strong><br>
-Python, FastAPI<br>
-Django, PostgreSQL<br>
-MongoDB, Redis<br>
-Celery
-</td>
-<td align="center" width="25%">
-<strong>☁️ Cloud & MLOps</strong><br>
-GCP, Azure, AWS<br>
-Kubernetes, Docker<br>
-GitHub Actions<br>
-CI/CD Pipelines
-</td>
-<td align="center" width="25%">
-<strong>🔄 Automation</strong><br>
-Zapier, n8n<br>
-GHL API, Playwright<br>
-Twilio, WhatsApp API<br>
-Retell AI, Selenium
-</td>
-</tr>
-</table>
-
-<br>
+| **DOMAIN** | **TOOLS & FRAMEWORKS** |
+|------------|------------------------|
+| **🤖 AI/ML** | LangChain, OpenAI, Vertex AI, Azure OpenAI, Pinecone, Whisper, TensorFlow, PyTorch |
+| **⚡ BACKEND** | Python, FastAPI, Django, PostgreSQL, MongoDB, Redis, Celery |
+| **☁️ CLOUD & MLOPS** | GCP, Azure, AWS, Kubernetes, Docker, GitHub Actions |
+| **🔄 AUTOMATION** | Zapier, n8n, GHL API, Playwright, Twilio, WhatsApp API, Retell AI, Selenium |
 
 ---
 
-## 🚀 **FEATURED PROJECTS** 🚀
+## ⚡ FEATURED PROJECTS ⚡
+
+| **PROJECT** | **TECH STACK** | **ONE-LINER** |
+|-------------|----------------|---------------|
+| 🤖 **PROPERTY SEARCH AGENT** | Python, Selenium, GPT-4 | AI agent scraping property listings, extracting key insights, and generating reports |
+| 📞 **VOICE APPOINTMENT BOT** | Retell AI, Zapier, FastAPI | AI-powered voice assistant booking salon & clinic appointments |
+| ⚡ **GHL AUTOMATION SUITE** | Python, Zapier, GHL API | Automates lead engagement, scheduling, and follow-ups |
+
+
+📄 **DETAILED CASE-STUDIES & NOTEBOOKS:** [saadullahsaleem7@gmail.com](mailto:saadullahsaleem7@gmail.com) (HAPPY TO SHARE PRIVATELY)
+
+---
+
+## ⚡ GITHUB ANALYTICS ⚡ (300+ CONTRIBUTIONS)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saadsaleem01&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=FFFF00&icon_color=FFFF00&text_color=FFFF00&bg_color=000000&border_color=FFFF00" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadsaleem01&layout=compact&theme=dark&hide_border=true&title_color=FFFF00&text_color=FFFF00&bg_color=000000&border_color=FFFF00" alt="Top Languages" width="49%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saadsaleem01&theme=darkhub&no-frame=true&column=7&title_color=FFFF00&text_color=FFFF00" alt="GitHub Trophies" />
+</div>
+
+---
+
+
+## ⚡ TECH BADGES ⚡
+
+![Python](https://img.shields.io/badge/Python-FFFF00?style=for-the-badge&logo=python&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-FFFF00?style=for-the-badge&logo=fastapi&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-FFFF00?style=for-the-badge&logo=langchain&logoColor=black)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-FFFF00?style=for-the-badge&logo=google-cloud&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-FFFF00?style=for-the-badge&logo=kubernetes&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-FFFF00?style=for-the-badge&logo=docker&logoColor=black)
+
+---
+
+## ⚡ LET'S CONNECT ⚡
 
 <div align="center">
 
-| **Project** | **Tech Stack** | **Description** |
-|-------------|----------------|-----------------|
-| 🤖 **Property Search Agent** | `Python` `Selenium` `GPT-4` | AI agent scraping property listings, extracting key insights, and generating reports |
-| 📞 **Voice Appointment Bot** | `Retell AI` `Zapier` `FastAPI` | AI-powered voice assistant booking salon & clinic appointments |
-| ⚡ **GHL Automation Suite** | `Python` `Zapier` `GHL API` | Automates lead engagement, scheduling, and follow-ups |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-FFFF00?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/saadullah-bin-saleem)
+[![Email](https://img.shields.io/badge/Email-CONTACT-FFFF00?style=for-the-badge&logo=gmail&logoColor=black)](mailto:saadullahsaleem7@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-VISIT-FFFF00?style=for-the-badge&logo=todoist&logoColor=black)](https://yourportfolio.com)
+[![Twitter](https://img.shields.io/badge/Twitter-FOLLOW-FFFF00?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/saadsaleem01)
 
 </div>
 
-<br>
-
-> 📄 **Detailed case-studies & notebooks:** [saadullahsaleem7@gmail.com](mailto:saadullahsaleem7@gmail.com) *(Happy to share privately)*
-
-<br>
-
----
-
-## 📊 **GITHUB ANALYTICS** 📊 *(300+ Contributions)*
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadsaleem01&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=000000&icon_color=00FF41&text_color=000000&bg_color=FFFFFF&border_color=00FF41" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadsaleem01&layout=compact&theme=default&hide_border=true&title_color=000000&text_color=000000&bg_color=FFFFFF&border_color=00FF41" alt="Top Languages" width="49%"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saadsaleem01&theme=flat&no-frame=true&column=7&title_color=000000&text_color=000000" alt="GitHub Trophies" />
-</div>
-
-<br>
-
----
-
-
-## 🏷️ **TECH STACK** 🏷️
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-00FF41?style=for-the-badge&logo=python&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-00FF41?style=for-the-badge&logo=fastapi&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-00FF41?style=for-the-badge&logo=langchain&logoColor=black)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-00FF41?style=for-the-badge&logo=google-cloud&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-00FF41?style=for-the-badge&logo=kubernetes&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-00FF41?style=for-the-badge&logo=docker&logoColor=black)
-
-</div>
-
-<br>
-
----
-
-## 🤝 **LET'S CONNECT** 🤝
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/saadullah-bin-saleem)
-[![Email](https://img.shields.io/badge/Email-Contact-00FF41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:saadullahsaleem7@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FF41?style=for-the-badge&logo=todoist&logoColor=black)](https://yourportfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-00FF41?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/saadsaleem01)
-
-</div>
-
-<br>
-
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=saadsaleem01&style=for-the-badge&color=00FF41&labelColor=000000" alt="Profile Views" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" alt="Footer" />
+  <img src="https://komarev.com/ghpvc/?username=saadsaleem01&style=for-the-badge&color=FFFF00&labelColor=000000" alt="Profile Views" />
 </div>
 
 </div>
